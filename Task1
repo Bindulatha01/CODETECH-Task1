@@ -1,0 +1,14 @@
+/* This program involves writing a simple Arduino program to blink an LED connected to one of the digital pins of the Arduino board.
+The LED will turn on and off at a specific interval,creating a blinking effect.*/
+
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(500);
+  digitalWrite(13, LOW);
+  delay(500);
+}
