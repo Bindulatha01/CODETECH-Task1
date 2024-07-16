@@ -1,8 +1,8 @@
 **Name:** BINDULATHA BHUPATHI <br>
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CTO8DS3629
-**Domain:** Embedded Systems
-**Duration:** July to August 2024
+**Company:** CODTECH IT SOLUTIONS <br>
+**ID:** CTO8DS3629 <br>
+**Domain:** Embedded Systems <br>
+**Duration:** July to August 2024 <br>
 
 **Overview of the Project**
 
@@ -17,11 +17,11 @@ The objective of this program is to program an Arduino board to blink an LED at 
 **Key Activities**
 
 **1.Setting Up the Arduino Environment:**
-  Install the Arduino IDE and configure the Arduino board and USB drivers.
+  Install the Arduino IDE and configure the Arduino board and USB drivers.<br>
 **2.Writing the Code:**
-  Initialize the digital pin connected to the LED,write the setup() function to set the pin mode and write the loop() function to turn the LED on and off at regular intervals.
+  Initialize the digital pin connected to the LED,write the setup() function to set the pin mode and write the loop() function to turn the LED on and off at regular intervals. <br>
 **3.Uploading the Code to the Arduino:**
-  Connect the Arduino to the computer via USB,compile and upload the code using the Arduino IDE.
+  Connect the Arduino to the computer via USB,compile and upload the code using the Arduino IDE.<br>
 **4.Observing the LED Blink:**
   Verify that the LED blinks at the specified interval.
 
