@@ -27,15 +27,15 @@ The objective of this program is to program an Arduino board to blink an LED at 
 
 **Technologies Used**
 
-**1.Arduino Board:** Any model(e.g.,Arduino Uno).
-**2.Arduino IDE:** For writing,compiling,and uploading code.
-**3.C++:** Programming language used for writing the code.
-**4.Digital I/O:** Basic concept of controlling digital pins on the Arduino.
+**1.Arduino Board:** Any model(e.g.,Arduino Uno).<br>
+**2.Arduino IDE:** For writing,compiling,and uploading code.<br>
+**3.C++:** Programming language used for writing the code.<br>
+**4.Digital I/O:** Basic concept of controlling digital pins on the Arduino.<br>
 
 **key insights**
-
-Introduction to Embedded Systems: This project serves as an introductory exercise in embedded systems, helping users understand the fundamental concept of using microcontrollers to control hardware.
-Hands-On Experience with Arduino: By working with the Arduino board and IDE, users gain practical experience in setting up and programming a microcontroller platform that is widely used in both educational and prototyping environments.
-Basic Digital I/O Understanding: The project demonstrates how to use digital input/output pins to control an LED, providing a foundational understanding of how microcontrollers interact with hardware components.
-Importance of Code Structure: The separation of the setup() and loop() functions in the Arduino sketch teaches users the importance of initialization and continuous execution in embedded programming.
+<head>
+Introduction to Embedded Systems<head>: This project serves as an introductory exercise in embedded systems, helping users understand the fundamental concept of using microcontrollers to control hardware.<br>
+Hands-On Experience with Arduino: By working with the Arduino board and IDE, users gain practical experience in setting up and programming a microcontroller platform that is widely used in both educational and prototyping environments.<br>
+Basic Digital I/O Understanding: The project demonstrates how to use digital input/output pins to control an LED, providing a foundational understanding of how microcontrollers interact with hardware components.<br>
+Importance of Code Structure: The separation of the setup() and loop() functions in the Arduino sketch teaches users the importance of initialization and continuous execution in embedded programming.<br>
 Delay Function and Timing Control: The use of the delay() function introduces the concept of timing control in embedded systems, showing how to create pauses between actions to achieve desired behavior (e.g., blinking at 1-second intervals).
